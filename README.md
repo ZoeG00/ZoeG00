@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**ZoeG00/ZoeG00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi i'm Zoe! Welcome to my profile💜💙
+
+God is a programmer, so me too
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](
+https://www.linkedin.com/in/zoe-guzman-0449b9229/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZoeGuzman00)
+
+
+## 🚀 About Me
+I'm from Argentina📍
+I'm currently learning Java☕
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS , Java, Spring
+

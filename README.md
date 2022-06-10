@@ -1,5 +1,5 @@
 
-![Logo](https://i.pinimg.com/originals/ac/45/ad/ac45ad55ee570402edbffb9187349158.gif)
+![Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--E4gnEuy_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/233m04x0r0lv60payria.gif)
 
 
 # Hi i'm Zoe! Welcome to my profile💜💙

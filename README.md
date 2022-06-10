@@ -1,5 +1,5 @@
 
-![Logo]([https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif](https://media.giphy.com/media/xT8qBgHkfCACqvjJny/giphy.gif))
+![Logo](https://media4.giphy.com/media/Lny6Rw04nsOOc/giphy.gif?cid=ecf05e47f0wazxhau1c4z852t6slt36c4kwjfyl24vghogjp&rid=giphy.gif&ct=g)
 
 
 # Hi i'm Zoe! Welcome to my profile💜💙

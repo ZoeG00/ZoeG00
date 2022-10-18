@@ -12,9 +12,6 @@
 
 ![react](https://img.shields.io/badge/-reactjs-00aae4?style=for-the-badge&logo=react&logoColor=black)
 
-![java](https://img.shields.io/badge/-java-red?style=for-the-badge&logo=java&logoColor=black)
-
-![springboot](https://img.shields.io/badge/-springboot-gr?style=for-the-badge&logo=spring&logoColor=black)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](

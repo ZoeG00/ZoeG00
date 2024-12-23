@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Zoe👩🏽‍💻, ✨welcome to my github✨</h1>
-<h3 align="center">I'm a Software Developer, ¿Shall we work togheter?</h3>
+<h3 align="center">I'm a Software Developer, ¿Shall we work together?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoeg00&label=Profile%20views&color=0e75b6&style=flat" alt="zoeg00" /> </p>
 

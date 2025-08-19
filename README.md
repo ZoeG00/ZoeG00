@@ -1,7 +1,8 @@
 <h1 align="center">Hey I'm Zoe👩🏽‍💻, ✨welcome to my github✨</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zoeg00&label=Profile%20views&color=0e75b6&style=flat" alt="zoeg00" /> </p>
--Software Dev👩🏽‍💻
+
+- Software Dev👩🏽‍💻
 - 📫 How to reach me **zoeguzman.ok@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

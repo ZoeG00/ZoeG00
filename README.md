@@ -1,7 +1,7 @@
-# 👋 ¡Hola! Soy Zoe 💻
+## 👋 ¡Hi, welcome!💻
 
 
-## 🚀 Tecnologías y herramientas que uso
+## 🚀 Technologies and tools I use
 
 - ⚛️ **React Native / React**
 - 📱 **Expo / Expo Router**
@@ -12,9 +12,9 @@
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
-Si querés hablar, colaborar o ver mis proyectos, ¡escribime!
+If you want to talk, collaborate or see my projects, write to me!
 
 - ✉️ **Email:** *(zoeguzman.ok@gmail.com)*
 - 🐦 **LinkedIn:** *(/zoeg00)*
@@ -22,4 +22,4 @@ Si querés hablar, colaborar o ver mis proyectos, ¡escribime!
 
 ---
 
-✨ *Gracias por visitar mi perfil. ¡Seguimos codeando!* 🚀
+✨ *Thank you for visiting my profile. We keep coding!* 🚀

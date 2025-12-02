@@ -1,4 +1,4 @@
-## 👋 ¡Hi, welcome!💻
+👋 ¡Hi, welcome!💻
 
 
 ## 🚀 Technologies and tools I use
